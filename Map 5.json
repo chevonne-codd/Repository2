@@ -2349,4 +2349,3 @@ UnitedStatesofAmericacoordinates10= [{ lng: -156.07926, lat: 20.64397}, { lng: -
 		thailandinfowindow.open(map);
     }
 	};
-};
