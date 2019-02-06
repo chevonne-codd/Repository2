@@ -2377,4 +2377,3 @@ UnitedStatesofAmericacoordinates10= [{ lng: -156.07926, lat: 20.64397}, { lng: -
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBAI5IQsPhgudyFqAbTDHPOKBhxRHDxAC4&callback=initMap">
     </script>
-  </body>
