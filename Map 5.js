@@ -1,4 +1,13 @@
-  // Define the LatLng coordinates for the polygon.
+var map;
+var infoWindow;
+
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 1.75,
+    center: {lat: 38.953062, lng: 0.248316},
+    mapTypeId: 'satellite'
+  });  
+// Define the LatLng coordinates for the polygon.
   //Albania
   var Albaniacoordinates=[
 			{
